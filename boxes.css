@@ -1,0 +1,44 @@
+* { /* минус отступы*/
+    padding: 0;
+    margin: 0;
+}
+
+.Site {
+    width: 1200px;
+    /*height: 900px;*/
+    background: white;
+    /*background-image: url("111.jpg");*/
+    margin: auto;
+}
+
+.box1 {
+    width: 100%;
+    height: 150px;
+    background: white;
+    margin: auto;
+    border: 4px solid #000000;
+}
+
+.box2 {
+    width:  400px;
+    height: 150px;
+    background: white;
+    margin-left: 0;
+    border: 4px solid #000000;
+}
+
+.box3 {
+    width: 400px;
+    height: 150px;
+    background: white;
+    margin-left: 800px;
+    margin-top: -160px;
+    border: 4px solid #000000;
+}
+
+.box4 {
+    width: 100%;
+    height: 200px;
+    background: white;
+    border: 4px solid #000000;
+}
